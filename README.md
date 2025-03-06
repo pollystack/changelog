@@ -15,6 +15,14 @@ PollyStack Platform (changelog)
 
 [TBD]
 
+## [0.0.3] - 2024-03-01
+
+Major functional changes, removed billing, removed settings, updated chrome plugin, new beta at beta.pollystack.com
+ 
+### Changed
+  
+- Removed Users, Permissions, Billing, Settings for making this a single user free with metering, prepping for beta.pollystack.com
+
 ## [0.0.2] - 2024-12-01
 
 Major functional changes
